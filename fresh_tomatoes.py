@@ -2,8 +2,6 @@ import webbrowser
 import os
 import re
 
-#Fresh clone
-
 # Styles and scripting for the page
 main_page_head = '''
 <head>
